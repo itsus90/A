@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='rule.xsl'?>
+<breakfast_menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="breakfast_menu.xsd">
+<food>
+<name>Briyani</name>
+<price>300</price>
+<description>Chettinad Biriyani served with raitha and brinjal</description>
+<calories>650</calories>
+</food>
+
+<food>
+<name>Chicken Fried Rice</name>
+<price>200</price>
+<description>Fried Chicken rice served with chicken65 and sauce</description>
+<calories>900</calories>
+</food>
+
+<food>
+<name>Mushroom Noodles</name>
+<price>150</price>
+<description>Mushroom noodles served with spring onion toppings and manchurian</description>
+<calories>900</calories>
+</food>
+
+<food>
+<name>French Toast</name>
+<price>100</price>
+<description>Thick slices made from our homemade sourdough bread</description>
+<calories>600</calories>
+</food>
+
+<food>
+<name>Homestyle Breakfast</name>
+<price>200</price>
+<description>Two eggs, Idly, Dosa, and Chutneys</description>
+<calories>950</calories>
+</food>
+
+</breakfast_menu>
